@@ -1,0 +1,89 @@
+{
+    "name": "SkullSwap Token List",
+    "timestamp": "2022-10-12T13:46:17.455Z",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "patch": 53
+    },
+    "tags": {},
+    "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
+    "keywords": [
+      "skullswap",
+      "default"
+    ],
+    "tokens": [
+       {
+            "name": "Wrapped ETH",
+            "address": "0x4200000000000000000000000000000000000006",
+            "symbol": "WETH",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+        },
+        {
+            "name": "Base Token",
+            "address": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+            "symbol": "BASE",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/zrbJWDc/base-logo.png"
+        },
+        {
+            "name": "Leet",
+            "address": "0x0963a1aBAF36Ca88C21032b82e479353126A1C4b",
+            "symbol": "LEET",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/leet.png"
+        },
+        {
+            "name": "Bald",
+            "address": "0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8",
+            "symbol": "BALD",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/bald.jpg"
+        },
+        {
+            "name": "Burning Brian",
+            "address": "0x7cc74075d60C059468e267bef5D454D032565325",
+            "symbol": "BRIAN",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/burningbrian.png"
+        },
+        {
+            "name": "Doge Base",
+            "address": "0xA3044b2a9ae8073EcC4E277f6246b3b00FC93553",
+            "symbol": "DBASE",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/dbase.jpg"
+        },
+        {
+            "name": "x",
+            "address": "0x6067451115b40d49046a17C2f9a6246363F61c72",
+            "symbol": "X",
+            "decimals": 9,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/xbase.jpg"
+        },
+        {
+            "name": "Basement",
+            "address": "0x0ef45269cf109fAC3EE3471CC8fe57876ecAd262",
+            "symbol": "BSMT",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/basement.jpg"
+        },
+        {
+            "name": "Ace Of Base",
+            "address": "0xed33162494AdBf4bBe0Aa8F28eeA4cD131c3c404",
+            "symbol": "ACE",
+            "decimals": 9,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/ace.jpg"
+        }
+    ]
+  }
