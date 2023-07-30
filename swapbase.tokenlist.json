@@ -1,5 +1,5 @@
 {
-    "name": "SkullSwap Token List",
+    "name": "SwapBase Token List",
     "timestamp": "2022-10-12T13:46:17.455Z",
     "version": {
       "major": 1,
@@ -9,7 +9,7 @@
     "tags": {},
     "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
     "keywords": [
-      "skullswap",
+      "swapbase",
       "default"
     ],
     "tokens": [
