@@ -1,0 +1,34 @@
+{
+    "name": "SwapBase LP Farms",
+    "timestamp": "2022-10-14T02:48:18.135Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 25
+    },
+    "tags": {},
+    "logoURI": "https://i.ibb.co/BrJtQBC/0xeca14fd925f0a64fc041d38653f25539000e7afa.png",
+    "keywords": [
+      "swapbase",
+      "default"
+    ],
+    "active": [
+      {
+        "tokens": [
+          "0x4200000000000000000000000000000000000006",
+          "0x3FF13895C5449591e3296192649169c9110941F0"
+        ],
+        "stakingRewardAddress": "0x62cEecC829A508c67E5A3078375bd234167D798e",
+        "ended": false,
+        "lp": "",
+        "name": "",
+        "baseToken": "0x4200000000000000000000000000000000000006",
+        "rate": 100,
+        "rewardToken": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+        "pair": "0x341f1F578C20A520CA36066eF291a53a43c3e026"
+      }
+    ],
+    "closed": [
+    ]
+  }
+  
