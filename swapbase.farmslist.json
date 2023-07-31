@@ -1,34 +1,78 @@
 {
-    "name": "SwapBase LP Farms",
-    "timestamp": "2022-10-14T02:48:18.135Z",
-    "version": {
-      "major": 1,
-      "minor": 0,
-      "patch": 25
-    },
-    "tags": {},
-    "logoURI": "https://i.ibb.co/BrJtQBC/0xeca14fd925f0a64fc041d38653f25539000e7afa.png",
-    "keywords": [
+   "name":"SwapBase LP Farms",
+   "timestamp":"2022-10-14T02:48:18.135Z",
+   "version":{
+      "major":1,
+      "minor":0,
+      "patch":25
+   },
+   "tags":{
+      
+   },
+   "logoURI":"https://i.ibb.co/BrJtQBC/0xeca14fd925f0a64fc041d38653f25539000e7afa.png",
+   "keywords":[
       "swapbase",
       "default"
-    ],
-    "active": [
+   ],
+   "active":[
       {
-        "tokens": [
-          "0x4200000000000000000000000000000000000006",
-          "0x3FF13895C5449591e3296192649169c9110941F0"
-        ],
-        "stakingRewardAddress": "0x62cEecC829A508c67E5A3078375bd234167D798e",
-        "ended": false,
-        "lp": "",
-        "name": "",
-        "baseToken": "0x4200000000000000000000000000000000000006",
-        "rate": 100,
-        "rewardToken": "0xd07379a755A8f11B57610154861D694b2A0f615a",
-        "pair": "0x341f1F578C20A520CA36066eF291a53a43c3e026"
+         "tokens":[
+            "0x4200000000000000000000000000000000000006",
+            "0x3FF13895C5449591e3296192649169c9110941F0"
+         ],
+         "stakingRewardAddress":"0x62cEecC829A508c67E5A3078375bd234167D798e",
+         "ended":false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x4200000000000000000000000000000000000006",
+         "rate":100,
+         "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
+         "pair":"0x341f1F578C20A520CA36066eF291a53a43c3e026"
+      },
+      {
+         "tokens":[
+            "0x4200000000000000000000000000000000000006",
+            "0xd07379a755A8f11B57610154861D694b2A0f615a"
+         ],
+         "stakingRewardAddress":"0xE299F1e76477cA88FFB05aEDA4C4609f401A4F5A",
+         "ended":false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x4200000000000000000000000000000000000006",
+         "rate":100,
+         "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
+         "pair":"0x5554419CCd0293d9383901F461C7C3E0c66E925F"
+      },
+      {
+         "tokens":[
+            "0x4200000000000000000000000000000000000006",
+            "0x38065Fd99A4b87f35A2791D2C674ed992af33BED"
+         ],
+         "stakingRewardAddress":"0xCA9D7F4A60cD12eC44F70f89E4B6F9a9E28Ce088",
+         "ended":false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x4200000000000000000000000000000000000006",
+         "rate":100,
+         "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
+         "pair":"0x185FA4f0D809D0F49aEA71b6E768C1832238967F"
+      },
+      {
+         "tokens":[
+            "0x4200000000000000000000000000000000000006",
+            "0xEB466342C4d449BC9f53A865D5Cb90586f405215"
+         ],
+         "stakingRewardAddress":"0x28284278c9E6da544702d01e47eFC2a1118d13D6",
+         "ended":false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x4200000000000000000000000000000000000006",
+         "rate":100,
+         "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
+         "pair":"0xAca85874D52e3e6d991f9E0b273a96228EDfeE7B"
       }
-    ],
-    "closed": [
-    ]
-  }
-  
+   ],
+   "closed":[
+      
+   ]
+}
