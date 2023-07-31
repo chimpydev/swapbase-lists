@@ -30,6 +30,14 @@
             "logoURI": "https://i.ibb.co/zrbJWDc/base-logo.png"
         },
         {
+            "name": "SHREKT",
+            "address": "0xAB8a1c03b8E4e1D21c8Ddd6eDf9e07f26E843492",
+            "symbol": "OGRE",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/4JYHjVb/ogre.png"
+        },
+        {
             "name": "BRIANISBALDCOINISBASED",
             "address": "0x38065Fd99A4b87f35A2791D2C674ed992af33BED",
             "symbol": "COINBASED",
