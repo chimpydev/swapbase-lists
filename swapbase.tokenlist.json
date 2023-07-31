@@ -30,6 +30,22 @@
             "logoURI": "https://i.ibb.co/zrbJWDc/base-logo.png"
         },
         {
+            "name": "BRIANISBALDCOINISBASED",
+            "address": "0x38065Fd99A4b87f35A2791D2C674ed992af33BED",
+            "symbol": "COINBASED",
+            "decimals": 8,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/fvFTCPC/A9y-Yenz3-400x400-1-1-1.jpg"
+        },
+        {
+            "name": "Axelar Wrapper USDC",
+            "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+            "symbol": "axlUSDC",
+            "decimals": 6,
+            "chainId": 8453,
+            "logoURI": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Circle_USDC_Logo.svg"
+        },
+        {
             "name": "Leet",
             "address": "0x0963a1aBAF36Ca88C21032b82e479353126A1C4b",
             "symbol": "LEET",
