@@ -9,7 +9,7 @@
   "tags": {},
   "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
   "keywords": [
-    "quickswap",
+    "swapbase",
     "default"
   ],
   "active": [
@@ -19,7 +19,7 @@
       "ended": false,
       "lp": "",
       "name": "",
-      "baseToken": "0x4200000000000000000000000000000000000006",
+      "baseToken": "0xd07379a755A8f11B57610154861D694b2A0f615a",
       "rate": 250,
       "ending": 1670921264,
       "stakingToken": "0x4200000000000000000000000000000000000006"
