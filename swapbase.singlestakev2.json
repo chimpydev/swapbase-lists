@@ -1,0 +1,41 @@
+{
+  "name": "SwapBase Syrups",
+  "timestamp": "2022-10-14T02:48:18.101Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 24
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
+  "keywords": [
+    "swapbase",
+    "default"
+  ],
+  "active": [
+    {
+      "token": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+      "stakingRewardAddress": "0xB6eF913622C76aae7CD054E8075e1D425d4E6Da7",
+      "ended": false,
+      "lp": "",
+      "name": "",
+      "baseToken": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+      "rate": 250,
+      "ending": 1670921264,
+      "stakingToken": "0xDa8Db1c30e5710fE1a5A0264cbde5B713829365c"
+    },
+    {
+      "token": "0xDa8Db1c30e5710fE1a5A0264cbde5B713829365c",
+      "stakingRewardAddress": "0x2AF5eC4211B32BFEb42C57f34356e99F92f0cdC7",
+      "ended": false,
+      "lp": "",
+      "name": "",
+      "baseToken": "0xDa8Db1c30e5710fE1a5A0264cbde5B713829365c",
+      "rate": 250,
+      "ending": 1670921264,
+      "stakingToken": "0x4200000000000000000000000000000000000006"
+    }
+  ],
+  "closed": [
+  ]
+}
