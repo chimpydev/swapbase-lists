@@ -30,6 +30,14 @@
             "logoURI": "https://i.ibb.co/zrbJWDc/base-logo.png"
         },
         {
+            "name": "Toshi",
+            "address": "0x8544FE9D190fD7EC52860abBf45088E81Ee24a8c",
+            "symbol": "TOSHI",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://assets.coingecko.com/coins/images/31126/small/5dajOmhM_400x400.jpg?1690777236"
+        },
+        {
             "name": "SHREKT",
             "address": "0xAB8a1c03b8E4e1D21c8Ddd6eDf9e07f26E843492",
             "symbol": "OGRE",
@@ -60,14 +68,6 @@
             "decimals": 18,
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/bald.jpg"
-        },
-        {
-            "name": "Toshi",
-            "address": "0x8544FE9D190fD7EC52860abBf45088E81Ee24a8c",
-            "symbol": "TOSHI",
-            "decimals": 18,
-            "chainId": 8453,
-            "logoURI": "https://assets.coingecko.com/coins/images/31126/small/5dajOmhM_400x400.jpg?1690777236"
         }
     ]
   }
