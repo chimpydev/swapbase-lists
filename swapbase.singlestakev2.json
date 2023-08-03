@@ -19,7 +19,7 @@
       "ended": false,
       "lp": "",
       "name": "",
-      "baseToken": "0x4200000000000000000000000000000000000006",
+      "baseToken": "0xd07379a755A8f11B57610154861D694b2A0f615a",
       "rate": 100000000,
       "ending": 1670921264,
       "stakingToken": "0xDa8Db1c30e5710fE1a5A0264cbde5B713829365c"
@@ -30,7 +30,7 @@
       "ended": false,
       "lp": "",
       "name": "",
-      "baseToken": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+      "baseToken": "0xDa8Db1c30e5710fE1a5A0264cbde5B713829365c",
       "rate": 100000000,
       "ending": 1670921264,
       "stakingToken": "0x4200000000000000000000000000000000000006"
