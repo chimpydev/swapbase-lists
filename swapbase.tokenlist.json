@@ -41,7 +41,7 @@
             "name": "USD Base Coin",
             "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
             "symbol": "USDbC",
-            "decimals": 18,
+            "decimals": 6,
             "chainId": 8453,
             "logoURI": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Circle_USDC_Logo.svg"
         },
