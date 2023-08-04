@@ -38,6 +38,22 @@
             "logoURI": "https://assets.coingecko.com/coins/images/31126/small/5dajOmhM_400x400.jpg?1690777236"
         },
         {
+            "name": "USD Base Coin",
+            "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+            "symbol": "USDbC",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Circle_USDC_Logo.svg"
+        },
+        {
+            "name": "Dai Stablecoin",
+            "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+            "symbol": "DAI",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png?v=025"
+        },
+        {
             "name": "SHREKT",
             "address": "0xAB8a1c03b8E4e1D21c8Ddd6eDf9e07f26E843492",
             "symbol": "OGRE",
