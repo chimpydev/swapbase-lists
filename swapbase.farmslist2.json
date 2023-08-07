@@ -84,6 +84,20 @@
          "rate": 50000000,
          "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
          "pair":"0x7Fe24b9b12965B860178758Ac445242a727b259d"
+      },
+      {
+         "tokens":[
+            "0x4200000000000000000000000000000000000006",
+            "0xc537603e5A2Ea1e1A763cC14285Ca0C8ED82f6cF"
+         ],
+         "stakingRewardAddress":"0x635B6881878Af15C8F2BA91B145cC7D251C0B445",
+         "ended":false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x4200000000000000000000000000000000000006",
+         "rate": 5000000,
+         "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
+         "pair":"0x34Dee78D885A987d7139b2d44CAcF1e7aE8c31eF"
       }
    ],
    "closed":[
