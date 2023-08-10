@@ -54,6 +54,22 @@
             "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png?v=025"
         },
         {
+            "name": "DAI+",
+            "address": "0x65a2508C429a6078a7BC2f7dF81aB575BD9D9275",
+            "symbol": "DAI+",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/sq9KVD0/dai.png"
+        },
+        {
+            "name": "USD+",
+            "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+            "symbol": "USD+",
+            "decimals": 6,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/37RYcGd/usd.png"
+        },
+        {
             "name": "Onigiri Finance",
             "address": "0xc537603e5A2Ea1e1A763cC14285Ca0C8ED82f6cF",
             "symbol": "NGR",
