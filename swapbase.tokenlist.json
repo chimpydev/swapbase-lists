@@ -86,6 +86,22 @@
             "logoURI": "https://i.ibb.co/090j8v4/BSHARElogo.png"
         },
         {
+            "name": "TOMBSHI",
+            "address": "0x348E8292A85dF2e629F541B58EaDCeEC22C7Af43",
+            "symbol": "TOMBSHI",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/yXNrqRT/tombshi.png"
+        },
+        {
+            "name": "TOSHI SHARE",
+            "address": "0x1a900f445eb061E4A86396f294eC79d0288b6Ba7",
+            "symbol": "TOSHARE",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/CmYwGKF/toshare.png"
+        },
+        {
             "name": "Onigiri Finance",
             "address": "0xc537603e5A2Ea1e1A763cC14285Ca0C8ED82f6cF",
             "symbol": "NGR",
@@ -99,7 +115,7 @@
             "symbol": "OGRE",
             "decimals": 18,
             "chainId": 8453,
-            "logoURI": "https://i.ibb.co/4JYHjVb/ogre.png"
+            "logoURI": "https://i.ibb.co/xHhmbh5/ogrelogowhite.png"
         },
         {
             "name": "BRIANISBALDCOINISBASED",
