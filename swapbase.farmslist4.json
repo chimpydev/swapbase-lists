@@ -67,7 +67,7 @@
          "lp":"",
          "name":"",
          "baseToken":"0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
-         "rate": 75000000,
+         "rate": 100000000,
          "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
          "pair":"0x7Fe24b9b12965B860178758Ac445242a727b259d"
       },
