@@ -126,6 +126,14 @@
             "logoURI": "https://i.ibb.co/fvFTCPC/A9y-Yenz3-400x400-1-1-1.jpg"
         },
         {
+            "name": "Magnate Finance",
+            "address": "0x2DC1cDa9186a4993bD36dE60D08787c0C382BEAD",
+            "symbol": "MAG",
+            "decimals": 8,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/Jrw32yS/192.png"
+        },
+        {
             "name": "Axelar Wrapper USDC",
             "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
             "symbol": "axlUSDC",
