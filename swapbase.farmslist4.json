@@ -149,7 +149,7 @@
             "0xc537603e5A2Ea1e1A763cC14285Ca0C8ED82f6cF"
          ],
          "stakingRewardAddress":"0x635B6881878Af15C8F2BA91B145cC7D251C0B445",
-         "ended":false,
+         "ended": true,
          "lp":"",
          "name":"",
          "baseToken":"0x4200000000000000000000000000000000000006",
