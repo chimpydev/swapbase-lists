@@ -129,9 +129,17 @@
             "name": "Magnate Finance",
             "address": "0x2DC1cDa9186a4993bD36dE60D08787c0C382BEAD",
             "symbol": "MAG",
-            "decimals": 8,
+            "decimals": 18,
             "chainId": 8453,
             "logoURI": "https://i.ibb.co/Jrw32yS/192.png"
+        },
+        {
+            "name": "YieldFarming Index",
+            "address": "0x8901cB2e82CC95c01e42206F8d1F417FE53e7Af0",
+            "symbol": "YFX",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/59X7g5f/0x8901c-B2e82-CC95c01e42206-F8d1-F417-FE53e7-Af0.png"
         },
         {
             "name": "Axelar Wrapper USDC",
