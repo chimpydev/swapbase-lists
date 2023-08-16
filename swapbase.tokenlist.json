@@ -46,6 +46,14 @@
             "logoURI": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Circle_USDC_Logo.svg"
         },
         {
+            "name": "Coinbase Wrapped Staked ETH",
+            "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+            "symbol": "cbETH",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://basescan.org/token/images/coinbasecbeth_32.png"
+        },
+        {
             "name": "Dai Stablecoin",
             "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
             "symbol": "DAI",
