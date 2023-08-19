@@ -81,7 +81,7 @@
          "lp":"",
          "name":"",
          "baseToken":"0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
-         "rate": 45000000,
+         "rate": 80000000,
          "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
          "pair":"0x282f9231E5294E7354744df36461c21e0E68061C"
       },
@@ -95,7 +95,7 @@
          "lp":"",
          "name":"",
          "baseToken":"0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
-         "rate": 45000000,
+         "rate": 80000000,
          "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
          "pair":"0x164Bc404c64FA426882D98dBcE9B10d5df656EeD"
       },
