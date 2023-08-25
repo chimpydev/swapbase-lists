@@ -150,25 +150,6 @@
       },
       {
          "tokens":[
-            "0x2DC1cDa9186a4993bD36dE60D08787c0C382BEAD",
-            "0x4200000000000000000000000000000000000006"
-         ],
-         "stakingRewardAddress":"0xf00c6c8086E7923aF5bc265ECFf75D2fF96F44CB",
-         "ended":false,
-         "lp":"",
-         "name":"",
-         "baseToken":"0x4200000000000000000000000000000000000006",
-         "rate": 10000000,
-         "rewardsRatio1": 0.2,
-         "rewardsRatio2": 0.8,
-         "voteable": true,
-         "poolPid": 11,
-         "lpName": "MAG-ETH",
-         "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
-         "pair":"0xC2dced7Ce908652d3b55D55555DcE96b6cdCB191"
-      },
-      {
-         "tokens":[
             "0x4200000000000000000000000000000000000006",
             "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22"
          ],
@@ -263,6 +244,25 @@
          "lpName": "ETH-OGRE",
          "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
          "pair":"0xBB2a2D17685C3BC71562A87fA4f66F68999F59c7"
+      },
+      {
+         "tokens":[
+            "0x2DC1cDa9186a4993bD36dE60D08787c0C382BEAD",
+            "0x4200000000000000000000000000000000000006"
+         ],
+         "stakingRewardAddress":"0xf00c6c8086E7923aF5bc265ECFf75D2fF96F44CB",
+         "ended": true,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x4200000000000000000000000000000000000006",
+         "rate": 0,
+         "rewardsRatio1": 0.2,
+         "rewardsRatio2": 0.8,
+         "voteable": false,
+         "poolPid": 11,
+         "lpName": "MAG-ETH",
+         "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
+         "pair":"0xC2dced7Ce908652d3b55D55555DcE96b6cdCB191"
       }
    ]
 }
