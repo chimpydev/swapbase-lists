@@ -61,7 +61,7 @@
       "depFee": "0",
       "burnFee": "0",
       "baseToken": "0x4200000000000000000000000000000000000006",
-      "rate": 0.22,
+      "rate": 0.154,
       "ending": 1670921264,
       "stakingToken": "0x2168eb98C6D416Afb85E7beef5abDc4FB4177dfE"
     },
@@ -74,7 +74,7 @@
       "depFee": "0",
       "burnFee": "0",
       "baseToken": "0x4200000000000000000000000000000000000006",
-      "rate": 0.08,
+      "rate": 0.058,
       "ending": 1670921264,
       "stakingToken": "0xeF94C12Ba5Bb2bF56E19BABfa56880487FEA6E82"
     }
