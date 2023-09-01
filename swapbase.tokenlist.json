@@ -30,6 +30,14 @@
             "logoURI": "https://i.ibb.co/zrbJWDc/base-logo.png"
         },
         {
+            "name": "xBase Token",
+            "address": "0xeF94C12Ba5Bb2bF56E19BABfa56880487FEA6E82",
+            "symbol": "xBASE",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/q9yb4VX/0xef94c12ba5bb2bf56e19babfa56880487fea6e82.png"
+        },
+        {
             "name": "Toshi",
             "address": "0x8544FE9D190fD7EC52860abBf45088E81Ee24a8c",
             "symbol": "TOSHI",
