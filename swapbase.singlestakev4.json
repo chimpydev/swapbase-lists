@@ -22,7 +22,7 @@
       "depFee": "0",
       "burnFee": "2",
       "baseToken": "0xd07379a755A8f11B57610154861D694b2A0f615a",
-      "rate": 60000000,
+      "rate": 120000000,
       "ending": 1670921264,
       "stakingToken": "0xeF94C12Ba5Bb2bF56E19BABfa56880487FEA6E82"
     },
@@ -48,7 +48,7 @@
       "depFee": "0",
       "burnFee": "0",
       "baseToken": "0xeF94C12Ba5Bb2bF56E19BABfa56880487FEA6E82",
-      "rate": 170000000,
+      "rate": 764000000,
       "ending": 1670921264,
       "stakingToken": "0x2168eb98C6D416Afb85E7beef5abDc4FB4177dfE"
     },
@@ -61,7 +61,7 @@
       "depFee": "0",
       "burnFee": "0",
       "baseToken": "0x4200000000000000000000000000000000000006",
-      "rate": 0.03839,
+      "rate": 0,
       "ending": 1670921264,
       "stakingToken": "0x2168eb98C6D416Afb85E7beef5abDc4FB4177dfE"
     },
@@ -74,7 +74,7 @@
       "depFee": "0",
       "burnFee": "0",
       "baseToken": "0x4200000000000000000000000000000000000006",
-      "rate": 0.01037,
+      "rate": 0,
       "ending": 1670921264,
       "stakingToken": "0xeF94C12Ba5Bb2bF56E19BABfa56880487FEA6E82"
     }
