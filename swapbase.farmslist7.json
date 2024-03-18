@@ -44,7 +44,7 @@
          "lp":"",
          "name":"",
          "baseToken":"0x4200000000000000000000000000000000000006",
-         "rate": 700000000,
+         "rate": 550000000,
          "rewardsRatio1": 0.2,
          "rewardsRatio2": 0.8,
          "voteable": true,
@@ -82,7 +82,7 @@
          "lp":"",
          "name":"",
          "baseToken":"0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
-         "rate": 300000000,
+         "rate": 250000000,
          "rewardsRatio1": 0.2,
          "rewardsRatio2": 0.8,
          "voteable": true,
@@ -101,7 +101,7 @@
          "lp":"",
          "name":"",
          "baseToken":"0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
-         "rate": 300000000,
+         "rate": 250000000,
          "rewardsRatio1": 0.2,
          "rewardsRatio2": 0.8,
          "voteable": true,
@@ -109,25 +109,6 @@
          "lpName": "USD+-DAI+",
          "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
          "pair":"0x164Bc404c64FA426882D98dBcE9B10d5df656EeD"
-      },
-      {
-         "tokens":[
-            "0x8901cB2e82CC95c01e42206F8d1F417FE53e7Af0",
-            "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA"
-         ],
-         "stakingRewardAddress":"0x6d3B7491b927eDa4f3d64C30393e236c827a19B1",
-         "ended":false,
-         "lp":"",
-         "name":"",
-         "baseToken":"0x8901cB2e82CC95c01e42206F8d1F417FE53e7Af0",
-         "rate": 30000000,
-         "rewardsRatio1": 0.2,
-         "rewardsRatio2": 0.8,
-         "voteable": true,
-         "poolPid": 5,
-         "lpName": "YFX-USDbC",
-         "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
-         "pair":"0x246F1B25b605dFC271667cDcb165512cC051C33c"
       },
      {
          "tokens":[
@@ -139,7 +120,7 @@
          "lp":"",
          "name":"",
          "baseToken":"0x4200000000000000000000000000000000000006",
-         "rate": 700000000,
+         "rate": 550000000,
          "rewardsRatio1": 0.2,
          "rewardsRatio2": 0.8,
          "voteable": true,
@@ -150,6 +131,25 @@
       }
    ],
    "closed":[
+      {
+         "tokens":[
+            "0x8901cB2e82CC95c01e42206F8d1F417FE53e7Af0",
+            "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA"
+         ],
+         "stakingRewardAddress":"0x6d3B7491b927eDa4f3d64C30393e236c827a19B1",
+         "ended":true,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x8901cB2e82CC95c01e42206F8d1F417FE53e7Af0",
+         "rate": 0,
+         "rewardsRatio1": 0.2,
+         "rewardsRatio2": 0.8,
+         "voteable": true,
+         "poolPid": 5,
+         "lpName": "YFX-USDbC",
+         "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
+         "pair":"0x246F1B25b605dFC271667cDcb165512cC051C33c"
+      },
       {
          "tokens":[
             "0x4200000000000000000000000000000000000006",
