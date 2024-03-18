@@ -38,13 +38,13 @@
             "logoURI": "https://i.ibb.co/q9yb4VX/0xef94c12ba5bb2bf56e19babfa56880487fea6e82.png"
         },
         {
-            "name": "Toshi",
-            "address": "0x8544FE9D190fD7EC52860abBf45088E81Ee24a8c",
-            "symbol": "TOSHI",
+            "name": "Pepe Wif Lambo",
+            "address": "0x6788e266A430E6Fdfdd0c09ee89D891f8017f17F",
+            "symbol": "LEPE",
             "decimals": 18,
             "chainId": 8453,
-            "logoURI": "https://assets.coingecko.com/coins/images/31126/small/5dajOmhM_400x400.jpg?1690777236"
-        },
+            "logoURI": "https://i.ibb.co/42qMBrY/pepewiflambo1.png"
+        }
         {
             "name": "USD Base Coin",
             "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
@@ -86,70 +86,6 @@
             "logoURI": "https://i.ibb.co/37RYcGd/usd.png"
         },
         {
-            "name": "BasedMoney.finance",
-            "address": "0x7d1b04f97dda1FDDF0AD9ef5A606E4a956261AC8",
-            "symbol": "BASED",
-            "decimals": 18,
-            "chainId": 8453,
-            "logoURI": "https://i.ibb.co/X47mLtK/BASEDlogo.png"
-        },
-        {
-            "name": "BasedShare",
-            "address": "0x7c2457c79F688Ed8e969E3d8FcEE87d75E370a10",
-            "symbol": "BSHARE",
-            "decimals": 18,
-            "chainId": 8453,
-            "logoURI": "https://i.ibb.co/090j8v4/BSHARElogo.png"
-        },
-        {
-            "name": "TOMBSHI",
-            "address": "0x348E8292A85dF2e629F541B58EaDCeEC22C7Af43",
-            "symbol": "TOMBSHI",
-            "decimals": 18,
-            "chainId": 8453,
-            "logoURI": "https://i.ibb.co/yXNrqRT/tombshi.png"
-        },
-        {
-            "name": "TOSHI SHARE",
-            "address": "0x1a900f445eb061E4A86396f294eC79d0288b6Ba7",
-            "symbol": "TOSHARE",
-            "decimals": 18,
-            "chainId": 8453,
-            "logoURI": "https://i.ibb.co/CmYwGKF/toshare.png"
-        },
-        {
-            "name": "Onigiri Finance",
-            "address": "0xc537603e5A2Ea1e1A763cC14285Ca0C8ED82f6cF",
-            "symbol": "NGR",
-            "decimals": 18,
-            "chainId": 8453,
-            "logoURI": "https://i.ibb.co/YkDK881/ac6f3294-3bb8-4081-9bae-eeb990241059.png"
-        },
-        {
-            "name": "SHREKT",
-            "address": "0xAB8a1c03b8E4e1D21c8Ddd6eDf9e07f26E843492",
-            "symbol": "OGRE",
-            "decimals": 18,
-            "chainId": 8453,
-            "logoURI": "https://i.ibb.co/xHhmbh5/ogrelogowhite.png"
-        },
-        {
-            "name": "BRIANISBALDCOINISBASED",
-            "address": "0x38065Fd99A4b87f35A2791D2C674ed992af33BED",
-            "symbol": "COINBASED",
-            "decimals": 8,
-            "chainId": 8453,
-            "logoURI": "https://i.ibb.co/fvFTCPC/A9y-Yenz3-400x400-1-1-1.jpg"
-        },
-        {
-            "name": "Magnate Finance",
-            "address": "0x2DC1cDa9186a4993bD36dE60D08787c0C382BEAD",
-            "symbol": "MAG",
-            "decimals": 18,
-            "chainId": 8453,
-            "logoURI": "https://i.ibb.co/Jrw32yS/192.png"
-        },
-        {
             "name": "YieldFarming Index",
             "address": "0x8901cB2e82CC95c01e42206F8d1F417FE53e7Af0",
             "symbol": "YFX",
@@ -164,14 +100,6 @@
             "decimals": 6,
             "chainId": 8453,
             "logoURI": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Circle_USDC_Logo.svg"
-        },
-        {
-            "name": "Bald",
-            "address": "0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8",
-            "symbol": "BALD",
-            "decimals": 18,
-            "chainId": 8453,
-            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/bald.jpg"
         }
     ]
   }
