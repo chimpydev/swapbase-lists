@@ -142,9 +142,9 @@
          "rate": 50000000,
          "rewardsRatio1": 0.2,
          "rewardsRatio2": 0.8,
-         "voteable": true,
-         "poolPid": 18,
-         "lpName": "ETH-USDC",
+         "voteable": false,
+         "poolPid": 21,
+         "lpName": "LEPE-ETH",
          "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
          "pair":"0x7f70a2ec67671212fd7e53069529337b0d8f25df"
       }
