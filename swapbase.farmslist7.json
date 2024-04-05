@@ -44,7 +44,7 @@
          "lp":"",
          "name":"",
          "baseToken":"0x4200000000000000000000000000000000000006",
-         "rate": 60000000,
+         "rate": 15000000,
          "rewardsRatio1": 0.2,
          "rewardsRatio2": 0.8,
          "voteable": true,
@@ -52,25 +52,6 @@
          "lpName": "ETH-axlUSDC",
          "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
          "pair":"0xAca85874D52e3e6d991f9E0b273a96228EDfeE7B"
-      },
-      {
-         "tokens":[
-            "0x4200000000000000000000000000000000000006",
-            "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA"
-         ],
-         "stakingRewardAddress":"0xF4B0E5E3e8038A07Ed6ca444A86A43295Ad2Cb4E",
-         "ended":false,
-         "lp":"",
-         "name":"",
-         "baseToken":"0x4200000000000000000000000000000000000006",
-         "rate": 10000000,
-         "rewardsRatio1": 0.2,
-         "rewardsRatio2": 0.8,
-         "voteable": true,
-         "poolPid": 2,
-         "lpName": "ETH-USDbC",
-         "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
-         "pair":"0x86cd030822547105Bd7952AF4ba48534640A3824"
       },
       {
          "tokens":[
@@ -109,25 +90,6 @@
          "lpName": "USD+-DAI+",
          "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
          "pair":"0x164Bc404c64FA426882D98dBcE9B10d5df656EeD"
-      },
-     {
-         "tokens":[
-            "0x4200000000000000000000000000000000000006",
-            "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
-         ],
-         "stakingRewardAddress":"0x9Ff11320F364640146f941342caDB6f55Dae54f0",
-         "ended":false,
-         "lp":"",
-         "name":"",
-         "baseToken":"0x4200000000000000000000000000000000000006",
-         "rate": 60000000,
-         "rewardsRatio1": 0.2,
-         "rewardsRatio2": 0.8,
-         "voteable": true,
-         "poolPid": 18,
-         "lpName": "ETH-USDC",
-         "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
-         "pair":"0xaEeB835f3Aa21d19ea5E33772DaA9E64f1b6982F"
       },
       {
          "tokens":[
@@ -168,6 +130,25 @@
          "lpName": "YFX-USDbC",
          "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
          "pair":"0x246F1B25b605dFC271667cDcb165512cC051C33c"
+      },
+      {
+         "tokens":[
+            "0x4200000000000000000000000000000000000006",
+            "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
+         ],
+         "stakingRewardAddress":"0x9Ff11320F364640146f941342caDB6f55Dae54f0",
+         "ended":true,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x4200000000000000000000000000000000000006",
+         "rate": 0,
+         "rewardsRatio1": 0.2,
+         "rewardsRatio2": 0.8,
+         "voteable": false,
+         "poolPid": 18,
+         "lpName": "ETH-USDC",
+         "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
+         "pair":"0xaEeB835f3Aa21d19ea5E33772DaA9E64f1b6982F"
       },
       {
          "tokens":[
@@ -301,6 +282,25 @@
          "lpName": "cbETH-ETH",
          "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
          "pair":"0xA5b63920AB791234eadE3d0C23139E21bc63c2f8"
+      },
+      {
+         "tokens":[
+            "0x4200000000000000000000000000000000000006",
+            "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA"
+         ],
+         "stakingRewardAddress":"0xF4B0E5E3e8038A07Ed6ca444A86A43295Ad2Cb4E",
+         "ended":true,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x4200000000000000000000000000000000000006",
+         "rate": 0,
+         "rewardsRatio1": 0.2,
+         "rewardsRatio2": 0.8,
+         "voteable": false,
+         "poolPid": 2,
+         "lpName": "ETH-USDbC",
+         "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
+         "pair":"0x86cd030822547105Bd7952AF4ba48534640A3824"
       },
       {
          "tokens":[
