@@ -70,6 +70,14 @@
             "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png?v=025"
         },
         {
+            "name": "USDC+",
+            "address": "0x85483696Cc9970Ad9EdD786b2C5ef735F38D156f",
+            "symbol": "USDC+",
+            "decimals": 6,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/rvZYSR8/usdcplus.png"
+        },
+        {
             "name": "DAI+",
             "address": "0x65a2508C429a6078a7BC2f7dF81aB575BD9D9275",
             "symbol": "DAI+",
