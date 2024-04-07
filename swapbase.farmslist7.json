@@ -63,7 +63,7 @@
          "lp":"",
          "name":"",
          "baseToken":"0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
-         "rate": 350000000,
+         "rate": 225000000,
          "rewardsRatio1": 0.2,
          "rewardsRatio2": 0.8,
          "voteable": true,
@@ -82,7 +82,7 @@
          "lp":"",
          "name":"",
          "baseToken":"0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
-         "rate": 350000000,
+         "rate": 225000000,
          "rewardsRatio1": 0.2,
          "rewardsRatio2": 0.8,
          "voteable": true,
@@ -90,6 +90,25 @@
          "lpName": "USD+-DAI+",
          "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
          "pair":"0x164Bc404c64FA426882D98dBcE9B10d5df656EeD"
+      },
+      {
+         "tokens":[
+            "0x85483696Cc9970Ad9EdD786b2C5ef735F38D156f",
+            "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376"
+         ],
+         "stakingRewardAddress":"0x3f74BbD45697D64Eb91F5134Ee75d702e39d4A07",
+         "ended": false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+         "rate": 250000000,
+         "rewardsRatio1": 0.2,
+         "rewardsRatio2": 0.8,
+         "voteable": true,
+         "poolPid": 22,
+         "lpName": "USDC+-USD+",
+         "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
+         "pair":"0xc3cb7E40b78427078E2cb0c5dA0BF7A0650F89f8"
       },
       {
          "tokens":[
