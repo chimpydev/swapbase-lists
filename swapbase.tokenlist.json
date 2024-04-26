@@ -46,6 +46,14 @@
             "logoURI": "https://i.ibb.co/42qMBrY/pepewiflambo1.png"
         },
         {
+            "name": "HarvestHaven",
+            "address": "0x486c3fb721c7faa426d4e68d7769b4427f86a7d9",
+            "symbol": "HVR",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/v1yrzKb/0ffa6993-3d53-4d31-a708-ee61aeab5ca3.jpg"
+        },
+        {
             "name": "USD Base Coin",
             "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
             "symbol": "USDbC",
