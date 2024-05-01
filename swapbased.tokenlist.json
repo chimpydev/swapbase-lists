@@ -1,0 +1,137 @@
+{
+    "name": "SwapBase Token List",
+    "timestamp": "2022-10-12T13:46:17.455Z",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "patch": 53
+    },
+    "tags": {},
+    "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
+    "keywords": [
+      "swapbase",
+      "default"
+    ],
+    "tokens": [
+       {
+            "name": "Wrapped ETH",
+            "address": "0x4200000000000000000000000000000000000006",
+            "symbol": "WETH",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+        },
+        {
+            "name": "Coin Token",
+            "address": "0x2156006a207A793B4069a2B72BE58DC2bD759232",
+            "symbol": "COIN",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/zrbJWDc/base-logo.png"
+        },
+        {
+            "name": "oCoin Token",
+            "address": "0x5B8F638330d7D6bD9D43811fe702F6894e97EF03",
+            "symbol": "oCOIN",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/q9yb4VX/0xef94c12ba5bb2bf56e19babfa56880487fea6e82.png"
+        },
+        {
+            "name": "Base Token",
+            "address": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+            "symbol": "BASE",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/zrbJWDc/base-logo.png"
+        },
+        {
+            "name": "xBase Token",
+            "address": "0xeF94C12Ba5Bb2bF56E19BABfa56880487FEA6E82",
+            "symbol": "xBASE",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/q9yb4VX/0xef94c12ba5bb2bf56e19babfa56880487fea6e82.png"
+        },
+        {
+            "name": "Pepe Wif Lambo",
+            "address": "0x6788e266A430E6Fdfdd0c09ee89D891f8017f17F",
+            "symbol": "LEPE",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/42qMBrY/pepewiflambo1.png"
+        },
+        {
+            "name": "HarvestHaven",
+            "address": "0x486c3fb721c7faa426d4e68d7769b4427f86a7d9",
+            "symbol": "HVR",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/v1yrzKb/0ffa6993-3d53-4d31-a708-ee61aeab5ca3.jpg"
+        },
+        {
+            "name": "USD Base Coin",
+            "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+            "symbol": "USDbC",
+            "decimals": 6,
+            "chainId": 8453,
+            "logoURI": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Circle_USDC_Logo.svg"
+        },
+        {
+            "name": "Coinbase Wrapped Staked ETH",
+            "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+            "symbol": "cbETH",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://basescan.org/token/images/coinbasecbeth_32.png"
+        },
+        {
+            "name": "Dai Stablecoin",
+            "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+            "symbol": "DAI",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png?v=025"
+        },
+        {
+            "name": "USDC+",
+            "address": "0x85483696Cc9970Ad9EdD786b2C5ef735F38D156f",
+            "symbol": "USDC+",
+            "decimals": 6,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/rvZYSR8/usdcplus.png"
+        },
+        {
+            "name": "DAI+",
+            "address": "0x65a2508C429a6078a7BC2f7dF81aB575BD9D9275",
+            "symbol": "DAI+",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/sq9KVD0/dai.png"
+        },
+        {
+            "name": "USD+",
+            "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+            "symbol": "USD+",
+            "decimals": 6,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/37RYcGd/usd.png"
+        },
+        {
+            "name": "YieldFarming Index",
+            "address": "0x8901cB2e82CC95c01e42206F8d1F417FE53e7Af0",
+            "symbol": "YFX",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/59X7g5f/0x8901c-B2e82-CC95c01e42206-F8d1-F417-FE53e7-Af0.png"
+        },
+        {
+            "name": "Axelar Wrapper USDC",
+            "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+            "symbol": "axlUSDC",
+            "decimals": 6,
+            "chainId": 8453,
+            "logoURI": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Circle_USDC_Logo.svg"
+        }
+    ]
+  }
