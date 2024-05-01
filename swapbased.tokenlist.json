@@ -27,7 +27,7 @@
             "symbol": "COIN",
             "decimals": 18,
             "chainId": 8453,
-            "logoURI": "https://i.ibb.co/zrbJWDc/base-logo.png"
+            "logoURI": "https://i.ibb.co/3p8VX4W/coin-token.png"
         },
         {
             "name": "oCoin Token",
@@ -35,7 +35,7 @@
             "symbol": "oCOIN",
             "decimals": 18,
             "chainId": 8453,
-            "logoURI": "https://i.ibb.co/q9yb4VX/0xef94c12ba5bb2bf56e19babfa56880487fea6e82.png"
+            "logoURI": "https://i.ibb.co/T8FGddY/ocoin-token.png"
         },
         {
             "name": "Base Token",
