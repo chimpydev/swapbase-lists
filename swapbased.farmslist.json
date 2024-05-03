@@ -20,6 +20,25 @@
             "0x4200000000000000000000000000000000000006",
             "0xd07379a755A8f11B57610154861D694b2A0f615a"
          ],
+         "stakingRewardAddress":"0xC733b0EbB1c456D5B1067De602cFA4973Dc33B36",
+         "ended":false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x4200000000000000000000000000000000000006",
+         "rate": 800000000,
+         "rewardsRatio1": 0.2,
+         "rewardsRatio2": 0.8,
+         "voteable": true,
+         "poolPid": 25,
+         "lpName": "ETH-COIN",
+         "rewardToken":"0x2156006a207A793B4069a2B72BE58DC2bD759232",
+         "pair":"0xe85d5A74756cAcB4B2E066Abca8971136C10b9db"
+      },
+      {
+         "tokens":[
+            "0x4200000000000000000000000000000000000006",
+            "0xd07379a755A8f11B57610154861D694b2A0f615a"
+         ],
          "stakingRewardAddress":"0xDf6c3f985d4a2A40Ed39cE1Eb6A18F5C957B111b",
          "ended":false,
          "lp":"",
