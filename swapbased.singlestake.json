@@ -74,7 +74,7 @@
       "depFee": "0",
       "burnFee": "0",
       "baseToken": "0x5B8F638330d7D6bD9D43811fe702F6894e97EF03",
-      "rate": 1000,
+      "rate": 800,
       "ending": 1670921264,
       "stakingToken": "0x2168eb98C6D416Afb85E7beef5abDc4FB4177dfE"
     },
