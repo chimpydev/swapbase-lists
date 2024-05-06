@@ -24,6 +24,7 @@
       "baseToken": "0x2156006a207A793B4069a2B72BE58DC2bD759232",
       "rate": 3000,
       "ending": 1670921264,
+      "stakingName": "oCOIN -> COIN",
       "stakingToken": "0x5B8F638330d7D6bD9D43811fe702F6894e97EF03"
     },
         {
@@ -37,11 +38,12 @@
       "baseToken": "0x4200000000000000000000000000000000000006",
       "rate": 0,
       "ending": 1670921264,
+      "stakingName": "oCOIN -> ETH",
       "stakingToken": "0x5B8F638330d7D6bD9D43811fe702F6894e97EF03"
     },
     {
       "token": "0x5B8F638330d7D6bD9D43811fe702F6894e97EF03",
-      "stakingRewardAddress": "0xcb9665E990027e115ccF22230b042e4E7eaBFDB2",
+      "stakingRewardAddress": "0x083db0B4a4D963F5b61CFA8AC02FE60136C75674",
       "ended": false,
       "lp": "",
       "name": "",
@@ -50,11 +52,12 @@
       "baseToken": "0x5B8F638330d7D6bD9D43811fe702F6894e97EF03",
       "rate": 5000,
       "ending": 1670921264,
+      "stakingName": "xBASE -> oCOIN",
       "stakingToken": "0xeF94C12Ba5Bb2bF56E19BABfa56880487FEA6E82"
     },
     {
       "token": "0x5B8F638330d7D6bD9D43811fe702F6894e97EF03",
-      "stakingRewardAddress": "0xE39226E0864252E0fC9bD668FB796FD63a1B75A4",
+      "stakingRewardAddress": "0xd7d01392b38cBA649B6Ecf754b5CFbFaf888FFfb",
       "ended": false,
       "lp": "",
       "name": "",
@@ -63,11 +66,12 @@
       "baseToken": "0x5B8F638330d7D6bD9D43811fe702F6894e97EF03",
       "rate": 2000,
       "ending": 1670921264,
+      "stakingName": "ETH -> oCOIN",
       "stakingToken": "0x4200000000000000000000000000000000000006"
     },
     {
       "token": "0x5B8F638330d7D6bD9D43811fe702F6894e97EF03",
-      "stakingRewardAddress": "0xEfE632dB3A07FeBcEc04f76Ea54D9d49f27bCd57",
+      "stakingRewardAddress": "0x675389261e3070d97c34e28C7bE33Ac75D6730ff",
       "ended": false,
       "lp": "",
       "name": "",
@@ -76,19 +80,7 @@
       "baseToken": "0x5B8F638330d7D6bD9D43811fe702F6894e97EF03",
       "rate": 800,
       "ending": 1670921264,
-      "stakingToken": "0x2168eb98C6D416Afb85E7beef5abDc4FB4177dfE"
-    },
-    {
-      "token": "0x4200000000000000000000000000000000000006",
-      "stakingRewardAddress": "0x272A9acB288915Bb52A0659c8F9f7bFeBA06fae5",
-      "ended": false,
-      "lp": "",
-      "name": "",
-      "depFee": "0",
-      "burnFee": "0",
-      "baseToken": "0x4200000000000000000000000000000000000006",
-      "rate": 0,
-      "ending": 1670921264,
+      "stakingName": "BLP -> oCOIN",
       "stakingToken": "0x2168eb98C6D416Afb85E7beef5abDc4FB4177dfE"
     },
     {
@@ -102,9 +94,66 @@
       "baseToken": "0x4200000000000000000000000000000000000006",
       "rate": 0,
       "ending": 1670921264,
+      "stakingName": "xBASE -> ETH",
       "stakingToken": "0xeF94C12Ba5Bb2bF56E19BABfa56880487FEA6E82"
     }
   ],
   "closed": [
+    {
+      "token": "0x4200000000000000000000000000000000000006",
+      "stakingRewardAddress": "0x272A9acB288915Bb52A0659c8F9f7bFeBA06fae5",
+      "ended": true,
+      "lp": "",
+      "name": "",
+      "depFee": "0",
+      "burnFee": "0",
+      "baseToken": "0x4200000000000000000000000000000000000006",
+      "rate": 0,
+      "ending": 1670921264,
+      "stakingName": "BLP -> ETH",
+      "stakingToken": "0x2168eb98C6D416Afb85E7beef5abDc4FB4177dfE"
+    },
+    {
+      "token": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+      "stakingRewardAddress": "0xcb9665E990027e115ccF22230b042e4E7eaBFDB2",
+      "ended": true,
+      "lp": "",
+      "name": "",
+      "depFee": "0",
+      "burnFee": "2",
+      "baseToken": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+      "rate": 5000,
+      "ending": 1670921264,
+      "stakingName": "xBASE -> BASE",
+      "stakingToken": "0xeF94C12Ba5Bb2bF56E19BABfa56880487FEA6E82"
+    },
+    {
+      "token": "0xeF94C12Ba5Bb2bF56E19BABfa56880487FEA6E82",
+      "stakingRewardAddress": "0xE39226E0864252E0fC9bD668FB796FD63a1B75A4",
+      "ended": true,
+      "lp": "",
+      "name": "",
+      "depFee": "5",
+      "burnFee": "0",
+      "baseToken": "0xeF94C12Ba5Bb2bF56E19BABfa56880487FEA6E82",
+      "rate": 2000,
+      "ending": 1670921264,
+      "stakingName": "ETH -> xBASE",
+      "stakingToken": "0x4200000000000000000000000000000000000006"
+    },
+    {
+      "token": "0xeF94C12Ba5Bb2bF56E19BABfa56880487FEA6E82",
+      "stakingRewardAddress": "0xEfE632dB3A07FeBcEc04f76Ea54D9d49f27bCd57",
+      "ended": true,
+      "lp": "",
+      "name": "",
+      "depFee": "0",
+      "burnFee": "0",
+      "baseToken": "0xeF94C12Ba5Bb2bF56E19BABfa56880487FEA6E82",
+      "rate": 800,
+      "ending": 1670921264,
+      "stakingName": "BLP -> xBASE",
+      "stakingToken": "0x2168eb98C6D416Afb85E7beef5abDc4FB4177dfE"
+    }
   ]
 }
