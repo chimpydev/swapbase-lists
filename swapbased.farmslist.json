@@ -48,7 +48,7 @@
          "rewardsRatio1": 0.2,
          "rewardsRatio2": 0.8,
          "voteable": true,
-         "poolPid": 0,
+         "poolPid": 26,
          "lpName": "ETH-BASE",
          "rewardToken":"0x2156006a207A793B4069a2B72BE58DC2bD759232",
          "pair":"0x5554419CCd0293d9383901F461C7C3E0c66E925F"
@@ -67,7 +67,7 @@
          "rewardsRatio1": 0.2,
          "rewardsRatio2": 0.8,
          "voteable": true,
-         "poolPid": 1,
+         "poolPid": 27,
          "lpName": "ETH-axlUSDC",
          "rewardToken":"0x2156006a207A793B4069a2B72BE58DC2bD759232",
          "pair":"0xAca85874D52e3e6d991f9E0b273a96228EDfeE7B"
@@ -86,7 +86,7 @@
          "rewardsRatio1": 0.2,
          "rewardsRatio2": 0.8,
          "voteable": true,
-         "poolPid": 6,
+         "poolPid": 28,
          "lpName": "USDbC-USD+",
          "rewardToken":"0x2156006a207A793B4069a2B72BE58DC2bD759232",
          "pair":"0x282f9231E5294E7354744df36461c21e0E68061C"
@@ -105,7 +105,7 @@
          "rewardsRatio1": 0.2,
          "rewardsRatio2": 0.8,
          "voteable": true,
-         "poolPid": 4,
+         "poolPid": 29,
          "lpName": "USD+-DAI+",
          "rewardToken":"0x2156006a207A793B4069a2B72BE58DC2bD759232",
          "pair":"0x164Bc404c64FA426882D98dBcE9B10d5df656EeD"
@@ -124,7 +124,7 @@
          "rewardsRatio1": 0.2,
          "rewardsRatio2": 0.8,
          "voteable": true,
-         "poolPid": 22,
+         "poolPid": 31,
          "lpName": "USDC+-USD+",
          "rewardToken":"0x2156006a207A793B4069a2B72BE58DC2bD759232",
          "pair":"0xc3cb7E40b78427078E2cb0c5dA0BF7A0650F89f8"
@@ -142,8 +142,8 @@
          "rate": 250,
          "rewardsRatio1": 0.2,
          "rewardsRatio2": 0.8,
-         "voteable": false,
-         "poolPid": 21,
+         "voteable": true,
+         "poolPid": 30,
          "lpName": "LEPE-ETH",
          "rewardToken":"0x2156006a207A793B4069a2B72BE58DC2bD759232",
          "pair":"0x7f70a2ec67671212fd7e53069529337b0d8f25df"
