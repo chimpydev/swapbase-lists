@@ -36,7 +36,7 @@
       "depFee": "0",
       "burnFee": "2",
       "baseToken": "0x4200000000000000000000000000000000000006",
-      "rate": 0,
+      "rate": 0.0444,
       "ending": 1670921264,
       "stakingName": "oCOIN -> ETH",
       "stakingToken": "0x5B8F638330d7D6bD9D43811fe702F6894e97EF03"
@@ -90,9 +90,9 @@
       "lp": "",
       "name": "",
       "depFee": "0",
-      "burnFee": "0",
+      "burnFee": "2",
       "baseToken": "0x4200000000000000000000000000000000000006",
-      "rate": 0,
+      "rate": 0.03225,
       "ending": 1670921264,
       "stakingName": "xBASE -> ETH",
       "stakingToken": "0xeF94C12Ba5Bb2bF56E19BABfa56880487FEA6E82"
