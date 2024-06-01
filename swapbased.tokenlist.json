@@ -126,6 +126,22 @@
             "logoURI": "https://i.ibb.co/37RYcGd/usd.png"
         },
         {
+            "name": "Brett",
+            "address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+            "symbol": "BRETT",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://basescan.org/token/images/brettbased_32.png"
+        },
+        {
+            "name": "Degen",
+            "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+            "symbol": "DEGEN",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://basescan.org/token/images/degentips_32.png"
+        },
+        {
             "name": "YieldFarming Index",
             "address": "0x8901cB2e82CC95c01e42206F8d1F417FE53e7Af0",
             "symbol": "YFX",
