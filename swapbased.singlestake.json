@@ -22,7 +22,7 @@
       "depFee": "0",
       "burnFee": "2",
       "baseToken": "0x2156006a207A793B4069a2B72BE58DC2bD759232",
-      "rate": 1500,
+      "rate": 5000,
       "ending": 1670921264,
       "stakingName": "oCOIN -> COIN",
       "stakingToken": "0x5B8F638330d7D6bD9D43811fe702F6894e97EF03"
