@@ -109,25 +109,6 @@
          "lpName": "USDC+-USD+",
          "rewardToken":"0x2156006a207A793B4069a2B72BE58DC2bD759232",
          "pair":"0xc3cb7E40b78427078E2cb0c5dA0BF7A0650F89f8"
-      },
-      {
-         "tokens":[
-            "0x4200000000000000000000000000000000000006",
-            "0x6788e266A430E6Fdfdd0c09ee89D891f8017f17F"
-         ],
-         "stakingRewardAddress":"0xeC454cA4eC03418486E55A139106285a4aA40EC6",
-         "ended":false,
-         "lp":"",
-         "name":"",
-         "baseToken":"0x4200000000000000000000000000000000000006",
-         "rate": 200,
-         "rewardsRatio1": 0.2,
-         "rewardsRatio2": 0.8,
-         "voteable": true,
-         "poolPid": 30,
-         "lpName": "LEPE-ETH",
-         "rewardToken":"0x2156006a207A793B4069a2B72BE58DC2bD759232",
-         "pair":"0x7f70a2ec67671212fd7e53069529337b0d8f25df"
       }
    ],
    "closed":[
@@ -149,6 +130,25 @@
          "lpName": "USD+-DAI+",
          "rewardToken":"0x2156006a207A793B4069a2B72BE58DC2bD759232",
          "pair":"0x164Bc404c64FA426882D98dBcE9B10d5df656EeD"
+      },
+      {
+         "tokens":[
+            "0x4200000000000000000000000000000000000006",
+            "0x6788e266A430E6Fdfdd0c09ee89D891f8017f17F"
+         ],
+         "stakingRewardAddress":"0xeC454cA4eC03418486E55A139106285a4aA40EC6",
+         "ended":true,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x4200000000000000000000000000000000000006",
+         "rate": 0,
+         "rewardsRatio1": 0.2,
+         "rewardsRatio2": 0.8,
+         "voteable": true,
+         "poolPid": 30,
+         "lpName": "LEPE-ETH",
+         "rewardToken":"0x2156006a207A793B4069a2B72BE58DC2bD759232",
+         "pair":"0x7f70a2ec67671212fd7e53069529337b0d8f25df"
       },
       {
          "tokens":[
