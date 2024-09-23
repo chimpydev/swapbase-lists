@@ -62,6 +62,14 @@
             "logoURI": "https://i.ibb.co/42qMBrY/pepewiflambo1.png"
         },
         {
+            "name": "EURC",
+            "address": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+            "symbol": "EURC",
+            "decimals": 6,
+            "chainId": 8453,
+            "logoURI": "https://basescan.org/token/images/circleeurc_32.png"
+        },
+        {
             "name": "USD Coin",
             "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
             "symbol": "USDC",
