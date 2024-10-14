@@ -36,7 +36,7 @@
       "depFee": "0",
       "burnFee": "2",
       "baseToken": "0x4200000000000000000000000000000000000006",
-      "rate": 0.0444,
+      "rate": 0.0222,
       "ending": 1670921264,
       "stakingName": "oCOIN -> ETH",
       "stakingToken": "0x5B8F638330d7D6bD9D43811fe702F6894e97EF03"
