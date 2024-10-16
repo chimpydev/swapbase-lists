@@ -62,6 +62,14 @@
             "logoURI": "https://i.ibb.co/42qMBrY/pepewiflambo1.png"
         },
         {
+            "name": "Aerodrome Token",
+            "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+            "symbol": "AERO",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://basescan.org/token/images/aerodrome_32.png"
+        },
+        {
             "name": "EURC",
             "address": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
             "symbol": "EURC",
