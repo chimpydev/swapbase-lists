@@ -54,6 +54,14 @@
             "logoURI": "https://i.ibb.co/q9yb4VX/0xef94c12ba5bb2bf56e19babfa56880487fea6e82.png"
         },
         {
+            "name": "Coinbase Wrapped BTC",
+            "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+            "symbol": "cbBTC",
+            "decimals": 8,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/tokens/8453/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf/logo.svg"
+        },
+        {
             "name": "Pepe Wif Lambo",
             "address": "0x6788e266A430E6Fdfdd0c09ee89D891f8017f17F",
             "symbol": "LEPE",
