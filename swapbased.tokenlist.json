@@ -62,6 +62,14 @@
             "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/main/tokens/8453/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf/logo.svg"
         },
         {
+            "name": "Fuego",
+            "address": "0x36912b5cf63E509f18E53ac98B3012Fa79e77bf5",
+            "symbol": "FUEGO",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/Q9XkfNg/FUEGO.png"
+        },
+        {
             "name": "Pepe Wif Lambo",
             "address": "0x6788e266A430E6Fdfdd0c09ee89D891f8017f17F",
             "symbol": "LEPE",
